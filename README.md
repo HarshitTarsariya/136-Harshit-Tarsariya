@@ -1,6 +1,6 @@
 # 136-Harshit-Tarsariya
 
-* Getting started with Numpy, Pandas and nltk libraries and preprocessing text datasets.
+* Getting started with Numpy, Pandas, NLTK libraries and preprocessing text datasets.
 
 * Preprocessing on datasets
 
